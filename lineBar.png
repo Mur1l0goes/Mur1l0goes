@@ -1,0 +1,3 @@
+git add lineBar.png
+git commit -m "Adiciona imagem ao projeto"
+git push origin main
