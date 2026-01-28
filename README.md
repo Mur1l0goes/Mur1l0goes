@@ -22,7 +22,7 @@
 
 </div>
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+<img width="100%" height="8px" alt="Image" src="https://github.com/user-attachments/assets/3086f73a-d56f-4554-944c-9d4a781193fc" />
 
 <div><br />
 
