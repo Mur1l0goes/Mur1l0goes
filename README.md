@@ -6,6 +6,7 @@
 ![Image](https://github.com/user-attachments/assets/50b8746d-d4b9-4ee6-b945-63ea09344609)  
 </div>
 
+<img width="100%" height="8px" alt="Image" src="https://github.com/user-attachments/assets/3086f73a-d56f-4554-944c-9d4a781193fc" />
 <h3 align="center">
   Data Analyst
 </h3>
