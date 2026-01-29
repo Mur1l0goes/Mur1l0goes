@@ -3,8 +3,7 @@
 <!-- height="380em" 
     src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif"/>
   <!-- <img height="350em" src="./.github/assets/banner.png"/> -->
-![Image](https://github.com/user-attachments/assets/e5780da6-6305-406d-9b1c-3b3ca0c4e247)
-  
+![Image](https://github.com/user-attachments/assets/50b8746d-d4b9-4ee6-b945-63ea09344609)  
 </div>
 
 <h3 align="center">
