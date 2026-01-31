@@ -17,25 +17,30 @@
 ---
 
 <div align="center">
-    
   <img 
     width="49%"
     height="200px" 
-    src="https://github-readme-stats-rho-tawny-10.vercel.app/api?username=Mur1l0goes&show_icons=true&count_private=true&theme=dark"
+    src="https://github-readme-stats-rho-tawny-10.vercel.app/api?username=Mur1l0goes&show_icons=true&count_private=true&theme=dark&title_color=80F7D4&icon_color=9D00FF&text_color=C9D1D9&bg_color=0D1117"
   />
   <img 
     width="40%" 
     height="200px" 
-    src="https://github-readme-stats-rho-tawny-10.vercel.app/api/top-langs/?username=Mur1l0goes&show_icons=true&count_private=true&theme=dark" 
+    src="https://github-readme-stats-rho-tawny-10.vercel.app/api/top-langs/?username=Mur1l0goes&layout=compact&theme=dark&title_color=80F7D4&text_color=C9D1D9&bg_color=0D1117"
   />
 </div>
 
+<img width="100%" height="6px" src="https://github.com/user-attachments/assets/3086f73a-d56f-4554-944c-9d4a781193fc" />
+
+## 📈 Activity Graph
+
+<div align="center">
   <img
-    width="100%" 
-    height="6px" 
-    src="https://github.com/user-attachments/assets/3086f73a-d56f-4554-944c-9d4a781193fc"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Mur1l0goes&bg_color=0D1117&color=80F7D4&line=9D00FF&point=FFFFFF&area=true&hide_border=true"
+    width="100%"
   />
 </div>
+
+<img width="100%" height="6px" src="https://github.com/user-attachments/assets/3086f73a-d56f-4554-944c-9d4a781193fc" />
 
 ## 👨🏽‍💻 About Me
 
@@ -71,10 +76,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/murilogoess">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" />
   </a>
   <a href="mailto:murilogoes075@gmail.com">
-    <img src="https://img.shields.io/badge/Email-9b1c0f?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="32" />
+    <img src="https://img.shields.io/badge/Email-BD0003?style=for-the-badge&logo=microsoft-outlook&logoColor=white" height="32" />
   </a>
 </div>
 
