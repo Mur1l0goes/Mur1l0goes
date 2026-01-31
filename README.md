@@ -8,7 +8,7 @@
 
 <img width="100%" height="6px" src="https://github.com/user-attachments/assets/3086f73a-d56f-4554-944c-9d4a781193fc" />
 
-<h2 align="center">📊 Data Analyst | Technology & Insights</h2>
+<h2 align="center"> Data Analyst | Technology & Insights</h2>
 
 <p align="center">
   Turning data into insights and decisions 🚀
@@ -21,16 +21,21 @@
   <img 
     width="49%"
     height="200px" 
-    src="https://github-readme-stats.vercel.app/api?username=Mur1l0goes&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" 
+    src="https://github-readme-stats-rho-tawny-10.vercel.app/api?username=Mur1l0goes&show_icons=true&count_private=true&theme=dark"
   />
   <img 
     width="40%" 
-    height="190px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mur1l0goes&layout=compact&title_color=80F7D4&text_color=ffffff&bg_color=0d1117&border_color=0d1117" 
+    height="200px" 
+    src="https://github-readme-stats-rho-tawny-10.vercel.app/api/top-langs/?username=Mur1l0goes&show_icons=true&count_private=true&theme=dark" 
   />
 </div>
 
----
+  <img
+    width="100%" 
+    height="6px" 
+    src="https://github.com/user-attachments/assets/3086f73a-d56f-4554-944c-9d4a781193fc"
+  />
+</div>
 
 ## 👨🏽‍💻 About Me
 
