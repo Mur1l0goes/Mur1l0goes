@@ -23,7 +23,7 @@
     src="https://github-readme-stats-rho-tawny-10.vercel.app/api?username=Mur1l0goes&show_icons=true&count_private=true&theme=dark&title_color=80F7D4&icon_color=9D00FF&text_color=C9D1D9&bg_color=0D1117"
   />
   <img 
-    width="45%" 
+    width="44%" 
     height="200px" 
     src="https://github-readme-stats-rho-tawny-10.vercel.app/api/top-langs/?username=Mur1l0goes&layout=compact&theme=dark&title_color=80F7D4&text_color=C9D1D9&bg_color=0D1117"
   />
