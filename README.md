@@ -31,17 +31,6 @@
 
 <img width="100%" height="6px" src="https://github.com/user-attachments/assets/3086f73a-d56f-4554-944c-9d4a781193fc" />
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Mur1l0goes&bg_color=0D1117&color=80F7D4&line=9D00FF&point=FFFFFF&area=true&hide_border=true"
-    width="100%"
-  />
-</div>
-
-<img width="100%" height="6px" src="https://github.com/user-attachments/assets/3086f73a-d56f-4554-944c-9d4a781193fc" />
-
 ## 👨🏽‍💻 About Me
 
 - 📚 Information Systems student focused on **Data Analysis**
@@ -50,6 +39,7 @@
 - 🎯 Goal: **Become a Data Analyst**
 
 ---
+
 
 ## 🛠️ Tech Stack
 
